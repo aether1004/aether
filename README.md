@@ -1,3 +1,1 @@
-# aether
-## 💮 hi, i'm **aeon** 💮
-is `blinglish` fun?
+## 💮 hi, i'm **aeon** 💮 </br> is `blinglish` fun?
