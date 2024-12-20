@@ -1,2 +1,3 @@
 # aether
-My personal repository.
+## 💮 hi, i'm **aeon** 💮
+is `blinglish` fun?
